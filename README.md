@@ -1,4 +1,4 @@
-### Hi there, I'm Kunza Noonari - aka [Luna Chan~][website] 👋
+### Hi there, I'm Kunza Noonari - aka [Luna Chan~] 👋
 
 [![Website](https://img.shields.io/website?label=em.broideress&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.instagram.com/em.broideress/)
 
