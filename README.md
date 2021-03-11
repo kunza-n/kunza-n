@@ -47,7 +47,7 @@
 <details>
 <summary>:zap: Top Languages</summary>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunza-n)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunza-n&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
