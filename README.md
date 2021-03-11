@@ -5,7 +5,7 @@
 ## I'm an Developer, Business Owner and Math Tutor!!
 
 - 🔭 I am a 3rd Year Computer Science Student at FIU!
-- 🌱 I’m currently learning React.js and Flutter 
+- 🌱 I’m currently learning Python, React.js and Flutter 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I speak 6 languages, and I love doing embroidery. 
