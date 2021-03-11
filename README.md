@@ -1,4 +1,4 @@
-### Hi there, I'm Kunza Noonari - aka [Luna Chan~] 👋
+### Hi there, I'm Kunza Noonari - aka [Luna Chan~] (๑˃ᴗ˂)ﻭ
 
 [![Website](https://img.shields.io/website?label=em.broideress&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.instagram.com/em.broideress/)
 
@@ -36,19 +36,15 @@
 ---
 ----
 
-<details>
+
   <summary>:zap: GitHub Stats</summary>
   
   <img align="left" alt="kunza-n's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kunza-n&theme=radical&show_icons=true" />
 
 
-</details>
-
-<details>
 <summary>:zap: Top Languages</summary>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunza-n&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
 
 [linkedin]: https://www.linkedin.com/in/kunza-future-software-engr/
