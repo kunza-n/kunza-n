@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="kunza-future-software-engr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="kunza-future-software-engr | LinkedIn" width="22px" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background-1.png" />][linkedin]
 
 
 <br />
