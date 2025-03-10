@@ -6,7 +6,6 @@
 - 💙 Still passionate about **Android development** and keeping up with the latest trends
 - 🔥 Passionate about building seamless mobile experiences
 - 🌱 Currently diving deeper into **Swift**, **SwiftUI**, and **iOS system design**
-- 🤝 Open to collaborating on mobile development projects
 - ✨ Fun fact: I speak 6 languages and love embroidery! 
 
 ### 💡 Let's Connect!
