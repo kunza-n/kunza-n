@@ -1,6 +1,6 @@
 ### Hi there, I'm Kunza Noonari (๑˃ᴗ˂)ﻭ
 
-## 🚀 Mobile Developer  
+## 🚀 Mobile Developer | iOS & Android Enthusiast!
 
 - 📱 **iOS Developer at Lumen Technologies** (previously Android Developer)
 - 💙 Still passionate about **Android development** and keeping up with the latest trends
